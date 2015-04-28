@@ -6,4 +6,5 @@
     <string name="edit_message">wpisz coś</string>
     <string name="send_message">zapisz</string>
     <string name="title_activity_display_message">My message</string>
+
 </resources>

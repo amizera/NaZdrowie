@@ -17,9 +17,9 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".DisplayMessageActivity"
+            android:name="pl.wroclaw.i.nazdrowie.DisplayMessageActivity"
             android:label="@string/title_activity_display_message"
-            android:parentActivityName=".NaZdrowie" >
+            android:parentActivityName="pl.wroclaw.i.nazdrowie.NaZdrowie" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="pl.wroclaw.i.nazdrowie.NaZdrowie" />
